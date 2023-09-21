@@ -24,7 +24,7 @@ body {
 }
 
 .header h1 .seo {
-    color: #ffffff;
+    color: #dedee3;
 }
 
 .header div {
@@ -48,7 +48,11 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
-/* This will be applied for anchor element */
+a:hover 
+{ 
+   color: rgb(0, 247, 255); 
+}
+/* This will be applied for the links */
 
 p {
     font-size: 16px;
@@ -67,11 +71,13 @@ p {
     float: left;
     margin-right: 25px;
 }
+/* Positioning the image */
 
 .float-right {
     float: right;
     margin-left: 25px;
 }
+/* Positioning the image */
 
 .top-content {
     width: 96%;
@@ -85,6 +91,36 @@ p {
     margin-left: 30px;
 }
 
+.search-engine-optimization {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+/* Setting properties for search engine optimize */
+
+.online-reputation-management {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+/* Setting properties for online reputation management */
+
+.social-media-marketing {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+/* Setting properties for social media marketing */
+
 .lead-generate {
     margin-bottom: 20px;
     padding: 50px;
@@ -93,6 +129,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+/* Setting properties for Lead generation */
 
 .brand-aware {
     margin-bottom: 20px;
@@ -102,6 +139,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+/* Setting properties for Brand awareness */
 
 .benefit-cost {
     margin-bottom: 20px;
@@ -111,20 +149,18 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+/* Setting properties for Cost management */
 
-.lead-generate h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
+.search-engine-optimization img {
+    max-height: 200px;
 }
 
-.brand-aware h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
+.online-reputation-management img {
+    max-height: 200px;
 }
 
-.benefit-cost h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
+.social-media-marketing img {
+    max-height: 200px;
 }
 
 .lead-generate img {
@@ -145,44 +181,6 @@ p {
     max-width: 600px;
 }
 
-.search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
 
 .search-engine-optimization h2 {
     margin-bottom: 20px;
@@ -195,6 +193,21 @@ p {
 }
 
 .social-media-marketing h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.lead-generate h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.brand-aware h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.benefit-cost h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
