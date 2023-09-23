@@ -48,3 +48,11 @@ To test my code, please follow the index.html and style.css files.
 Personally I used VSCode as an IDE to edit code.
 For browser, I tested in Google Chrome.
 To inspect my code, I used Google Chrome Development tool.
+<<<<<<< Updated upstream
+=======
+
+## Screenshot
+
+Link for my webpage (https://thalim-glam.github.io/updated-horiseon-site/)
+![Brand Awareness Screenshot](https://github.com/thalim-glam/updated-horiseon-site/blob/main/assets/images/brand-awareness.png)
+>>>>>>> Stashed changes
