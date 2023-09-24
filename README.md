@@ -48,8 +48,6 @@ To test my code, please follow the index.html and style.css files.
 Personally I used VSCode as an IDE to edit code.
 For browser, I tested in Google Chrome.
 To inspect my code, I used Google Chrome Development tool.
-<<<<<<< Updated upstream
-=======
 
 ## Screenshot
 
