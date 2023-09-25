@@ -52,5 +52,6 @@ To inspect my code, I used Google Chrome Development tool.
 ## Screenshot
 
 Link for my webpage (https://thalim-glam.github.io/updated-horiseon-site/)
-![Brand Awareness Screenshot](https://github.com/thalim-glam/updated-horiseon-site/blob/main/assets/images/brand-awareness.png)
+![Brand Awareness Screenshot](/assets/images/screenshot.png)
+
 >>>>>>> Stashed changes
