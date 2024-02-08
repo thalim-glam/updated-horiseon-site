@@ -13,14 +13,10 @@ This is our first challenge in web development bootcamp. I have updated the "Sta
   - Click here for the repository: https://github.com/thalim-glam/updated-horiseon-site
   - Click here for Readme file: https://github.com/thalim-glam/updated-horiseon-site/blob/main/README.md
   - Here is a sample screenshots of my application :
-    - Screenshot of Brand awareness ![Screenshot of Brand awareness](./assets/images/brand-awareness.png)
-    - Screenshot of Cost management ![Screenshot of Cost management](./assets/images/cost-management.png)
-    - Screenshot of Digital Marketing ![Screenshot of Digital Marketing](./assets/images/digital-marketing-meeting.jpg)
-    - Screenshot of Lead generation ![Screenshot of Lead generation](./assets/images/lead-generation.png)
-    - Screenshot of Online reputation ![Screenshot of online reputation](./assets/images/online-reputation-management.jpg)
-    - Screenshot of Search engine optimization ![Screenshot of Search engine optimization](./assets/images/search-engine-optimization.jpg)
-     - Screenshot of Social media marketing ![Screenshot of Social media marketing](./assets/images/social-media-marketing.jpg)
-    
+    - Screenshot of Nav bar ![Screenshot of Nav bar](./assets/images/Screenshot_1.jpg)
+    - Screenshot of Search engine optimization Online reputation ![Screenshot of Search engine optimization](./assets/images/Screenshot_2.jpg)
+    - Screenshot of Social media marketing Lead Generation ![Screenshot of Social media marketing Lead Generation](./assets/images/Screenshot_3.jpg)
+    - Screenshot of Brand Awareness ![Screenshot of Brand awareness](./assets/images/Screenshot_4.jpg)
     
 ## Command line code
 
