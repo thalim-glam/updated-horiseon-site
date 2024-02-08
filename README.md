@@ -8,31 +8,40 @@ This is our first challenge in web development bootcamp. I have updated the "Sta
 - It is updating an existing webpage.
 
 
-## Installation
+## User Instruction
 
-- To complete this homework, I had to install git, git bash, VSCode etc and follow class lectures. 
+  - Click here for the repository: https://github.com/thalim-glam/updated-horiseon-site
+  - Click here for Readme file: https://github.com/thalim-glam/updated-horiseon-site/blob/main/README.md
+  - Here is a sample screenshots of my application :
+    - Screenshot of Brand awareness ![Screenshot of Brand awareness](./assets/images/brand-awareness.png)
+    - Screenshot of Cost management ![Screenshot of Cost management](./assets/images/cost-management.png)
+    - Screenshot of Digital Marketing ![Screenshot of Digital Marketing](./assets/images/digital-marketing-meeting.jpg)
+    - Screenshot of Lead generation ![Screenshot of Lead generation](./assets/images/lead-generation.png)
+    - Screenshot of Online reputation ![Screenshot of online reputation](./assets/images/online-reputation-management.jpg)
+    - Screenshot of Search engine optimization ![Screenshot of Search engine optimization](./assets/images/search-engine-optimization.jpg)
+     - Screenshot of Social media marketing ![Screenshot of Social media marketing](./assets/images/social-media-marketing.jpg)
+    
+    
+## Command line code
 
-## Usage
-
-I used a lot of git commands like :
-git status
-git add -A
-git commit -m "Comment goes here"
-git branch
-git push
-git pull origin main
-git checkout main
-git checkout -b feature/add-branch
+I used the following command lines:
+- npm run start [ You may need this to start the server ]
+- npm i express [To install modules if you do ot see it ]
+- git status
+- git add -A
+- git commit -m "Comment goes here"
+- git branch
+- git pull origin main
+- git push
+- git checkout main
+- git checkout -b feature/add-branch
 
 ## Credits
 
-Not sure what to write in this section
+Apart from me :D the credit also goes to my Instructor, TAs, Tutor, Classmates, and Google 
 
 ## License
-
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
-
-## Badges
+ ![Github license](https://img.shields.io/badge/license-MIT-blue.svg) 
 
 ## Features
 
@@ -44,14 +53,10 @@ I followed this https://coding-boot-camp.github.io/full-stack/github/professiona
 
 ## Tests
 
-To test my code, please follow the index.html and style.css files.
-Personally I used VSCode as an IDE to edit code.
-For browser, I tested in Google Chrome.
-To inspect my code, I used Google Chrome Development tool.
+To test this challenge, 
+  - please follow the index.html and style.css files.
+  - I used VSCode as an IDE to edit code. 
+  - I tested in Google Chrome.
+  - To inspect my code, I used Google Chrome Development tool.
 
-## Screenshot
-
-Link for my webpage (https://thalim-glam.github.io/updated-horiseon-site/)
-![Brand Awareness Screenshot](/assets/images/screenshot.png)
-
->>>>>>> Stashed changes
+### Done By: Tasneem Halim 😎
